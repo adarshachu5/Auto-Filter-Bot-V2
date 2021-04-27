@@ -11,6 +11,8 @@ Bot gives button link to files in connected channels on query !
 
 No need to add filters for your files or movies from now on!
 
+This bot buid for @filmkottakaa telegram group
+
 For more click <i>help</i></b>"""
 
 
@@ -53,12 +55,12 @@ No need add each filter again!
 Bot will automatically search for your files and give links to that!
 
 
-<b>© @TroJanzHEX</b>"""
+<b>© @achu64</b>"""
 
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @TroJanzHEX
+⭕️<b>Creater :</b> @achu64
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
