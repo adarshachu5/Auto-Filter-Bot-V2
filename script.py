@@ -60,12 +60,12 @@ Bot will automatically search for your files and give links to that!
 
     ABOUT_MSG = """⭕️<b>My Name : Auto Filter Bot V2</b>
     
-⭕️<b>Creater :</b> @achu64
+⭕️<b>Creater : @achu64</b> 
 
-⭕️<b>Language :</b> <code>Python3</code>
+⭕️<b>Language :<code>Python3</code></b>
 
-⭕️<b>Library :</b> <a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a> 
+⭕️<b>Library :<a href='https://docs.pyrogram.org/'>Pyrogram 1.0.7</a></b>
 
-⭕️<b>Tutorial Video :</b> <a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a> 
+⭕️<b>Tutorial Video :<a href='https://youtu.be/KQVYQAOsFYY'>Video Link</a></b>
 
 """
